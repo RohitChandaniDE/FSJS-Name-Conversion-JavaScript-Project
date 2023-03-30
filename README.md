@@ -15,7 +15,7 @@ snakecase, Kebab case and Screaming kebab case on clicking convert button.
 ***
 
 ![Badge](https://img.shields.io/badge/PROJECT%20LINK-BELOW-lightgrey) 
-### [HERE](https://fsjs-color-changer-javascript-project.netlify.app/)
+### [HERE](https://fsjs-name-conversion-js-project.netlify.app/)
 
 ***
 
